@@ -1,6 +1,7 @@
 {
-  "colors": ["black", "blue", "grey"],
+  "favouriteColors": ["black", "blue", "grey"],
   "country": "Maldives",
   "population": 521457,
-  "visit": true
+  "visitIntention": true,
+  "favouriteFoods": ["Chapati", "Ugali Stew", "Pilau"]
 }
